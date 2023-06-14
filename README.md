@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @RajkumarShrikhande
 - 👀 I’m interested in Embedded IOT developer
 - 🌱 I’m currently learning Embedded IOT development
-- 📫 How to reach me - www.rajkumarshrikhande@gmail.com
+- 📫 How to reach me -
+- Email: www.rajkumarshrikhande@gmail.com
+- Contact No. 08722096397
+-          
